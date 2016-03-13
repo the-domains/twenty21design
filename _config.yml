@@ -1,7 +1,7 @@
 name: twenty21design
 favicon: null
-layout_spectrum: 0.4134820762556046
-typography_spectrum: 0.8226719330996275
+layout_spectrum: 0.17077
+typography_spectrum: 0.15287
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#ffffff'
+    - '#000000'
+    - '#9b1512'
+    - '#393939'
+    - '#878787'
   brandStrength: 0.7159875808283687
   lightness: 0.21771429968066514
   saturation: 0.5515962422359735
