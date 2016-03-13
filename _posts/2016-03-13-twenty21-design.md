@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Welcome to Twenty21 Design where designs are built to grow and last.
-datePublished: '2016-03-13T17:36:11.609Z'
-dateModified: '2016-03-13T17:33:01.677Z'
+datePublished: '2016-03-13T17:38:36.798Z'
+dateModified: '2016-03-13T17:37:29.978Z'
 title: Twenty21 Design
 author: []
 sourcePath: _posts/2016-03-13-twenty21-design.md
@@ -26,4 +26,4 @@ _type: Article
 
 Welcome to Twenty21 Design where designs are built to grow and last.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b4bfd3da-7598-4e1e-92c6-a441a58a2180.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/edbce068-525f-4b41-82c6-20e1ffe3a0ac.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0d99f24c-fae3-4f3c-9f76-5d133099a065.jpg)
