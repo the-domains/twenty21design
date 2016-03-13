@@ -2,6 +2,7 @@ name: twenty21design
 favicon: null
 layout_spectrum: 0.17077
 typography_spectrum: 0.15287
+title: Portfolio Design
 cta:
   domain: null
   bucket: null
