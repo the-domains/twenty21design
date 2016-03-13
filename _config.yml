@@ -1,6 +1,6 @@
 name: twenty21design
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.50417
 typography_spectrum: 0.80894
 title: Portfolio Design
 cta:
@@ -22,8 +22,8 @@ color:
     - '#757575'
     - '#fbfbfb'
     - '#cbcbcb'
-  brandStrength: 0.5
-  lightness: 0.625
-  saturation: 1
-  rhythmicContrast: 1
+  brandStrength: 1
+  lightness: 0.5
+  saturation: 0
+  rhythmicContrast: 0.5
 purpose: []
